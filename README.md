@@ -2,6 +2,8 @@
 
 The goal of this project is to create an AI powered tool to help complete repetitive tasks which are currently manually performed by the EIP staff related to new technology disclosure forms.
 
+This API application serves as a basis that proves functionality of the ChatGPT API which can be further developed to create tools such as the following:
+
 
 Pre Disclosure Form tool
 
@@ -26,7 +28,6 @@ A new tech disclosure form is received by the tech transfer office in the portal
  Input
  - Disclosure form
  Output
- - Olga's template
   - Summary, procedures, advantages, disadvantages, potential applications, potential market/clients, competing technologies, questions/comments
  - Scoring system (different scores for categories)
 
