@@ -1,4 +1,4 @@
-# EIPAI
+# EIPGPT
 
 The goal of this project is to create an AI powered tool to help complete repetitive tasks which are currently manually performed by the EIP staff related to new technology disclosure forms.
 
